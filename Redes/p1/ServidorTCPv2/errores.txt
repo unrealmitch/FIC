@@ -1,0 +1,1883 @@
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332855387.1332949188.3; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+
+-Fecha de la petición: mié, 28 mar 2012 07:42:49 CEST
+
+-Código de error: 04 
+
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /flash/audio.swf HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/second
+Cookie: __utma=111872281.1199303539.1332761185.1332855387.1332949188.3; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+
+-Fecha de la petición: mié, 28 mar 2012 07:42:52 CEST
+
+-Código de error: 04 
+
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /troll HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.1.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+
+-Fecha de la petición: mié, 28 mar 2012 07:42:55 CEST
+
+-Código de error: 04 
+
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.1.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+
+-Fecha de la petición: mié, 28 mar 2012 07:44:17 CEST
+
+-Código de error: 04 
+
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /troll HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.1.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+
+-Fecha de la petición: mié, 28 mar 2012 07:44:32 CEST
+
+-Código de error: 04 
+
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /flash/audio.swf HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/second
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.1.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+
+-Fecha de la petición: mié, 28 mar 2012 07:44:34 CEST
+
+-Código de error: 04 
+
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.2.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 07:54:24 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /flash/audio.swf HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/second
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.2.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 07:54:27 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /troll HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.3.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 07:54:40 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /flash/audio.swf HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/second
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.3.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 07:55:16 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.4.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 07:56:37 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 07:59:43 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica%20Code HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 07:59:45 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:00:01 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:00:02 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:00:14 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/zero%5CPractica/Logs.java HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero/Practica
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:00:15 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/zero%5CPractica/ServidorTCPv2.java HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero/Practica
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:00:17 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero%5CPractica/ServidorTCPv2.java HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:00:32 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero%5CPractica%5CServidorTCPv2.java HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:00:37 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica/PServidorTCPv2.java HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:00:48 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:01:05 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:09:50 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:09:51 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:09:55 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/zero%5CPractica/Logs.java HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero/Practica
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:09:58 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:10:50 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica%202 HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:10:51 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:11:22 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/TC%20P.jpg HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:11:23 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:19:07 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/TC%20P.jpg HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:19:08 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:20:15 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/TC%20P.jpg HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:20:16 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/TC%20P.jpg HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.5.10.1332956573; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:22:28 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/TC%20P.jpg HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:29:43 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/TC%20P.jpg HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:32:32 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/TC%20P.jpg HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:33:15 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/TC%20P.jpg HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:35:42 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /troll HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:47:55 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:47:57 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/TC%20P.jpg HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:47:58 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:50:51 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica%202 HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:51:27 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/zero%5CPractica%202/Logs.java HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero/Practica%202
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:51:29 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/zero%5CPractica%202/Logs.java HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero/Practica%202
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:51:40 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/zero%5CPractica%202/Logs.java HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero/Practica%202
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 08:55:49 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 09:05:08 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica%202 HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 09:05:19 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/zero%5CPractica%202/ServidorTCPv2.java HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero/Practica%202
+Cookie: __utma=111872281.1199303539.1332761185.1332949188.1332956573.4; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: mié, 28 mar 2012 09:05:22 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /favicon.ico HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: es-ES,es;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:13:15 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332956573.1332961900.5; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:13:38 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica%202 HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332956573.1332961900.5; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:13:53 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/zero%5CPractica%202/Logs.java HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero/Practica%202
+Cookie: __utma=111872281.1199303539.1332761185.1332956573.1332961900.5; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:14:01 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/ HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Cookie: __utma=111872281.1199303539.1332761185.1332956573.1332961900.5; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:15:34 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/zero/Practica%202 HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero/
+Cookie: __utma=111872281.1199303539.1332761185.1332956573.1332961900.5; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:15:36 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332956573.1332961900.5; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:15:44 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica%202 HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332956573.1332961900.5; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:15:48 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/zero%5CPractica%202/ClienteTCP.java HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero/Practica%202
+Cookie: __utma=111872281.1199303539.1332761185.1332956573.1332961900.5; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:16:39 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332956573.1332961900.5; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:21:59 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica%202 HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332956573.1332961900.5; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:22:00 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Cookie: __utma=111872281.1199303539.1332761185.1332956573.1332961900.5; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:23:43 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332961900.1333031219.6; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.1.10.1333031219; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:29:45 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica%202 HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332961900.1333031219.6; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.1.10.1333031219; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:29:51 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/zero%5CPractica%202/ClienteTCP.java HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero/Practica%202
+Cookie: __utma=111872281.1199303539.1332761185.1332961900.1333031219.6; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.1.10.1333031219; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:29:52 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332961900.1333031219.6; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.2.10.1333031219; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:31:29 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica%202 HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332961900.1333031219.6; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.2.10.1333031219; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:31:32 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332961900.1333031219.6; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.2.10.1333031219; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:41:06 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica%202 HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332961900.1333031219.6; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.2.10.1333031219; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:41:17 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+Cookie: __utma=111872281.1199303539.1332761185.1332961900.1333031219.6; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.2.10.1333031219; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:42:43 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica%202 HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+Cookie: __utma=111872281.1199303539.1332761185.1332961900.1333031219.6; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.2.10.1333031219; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:42:45 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica%202/Otros%20Ficheros HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero/Practica%202
+Cookie: __utma=111872281.1199303539.1332761185.1332961900.1333031219.6; __utmz=111872281.1332761185.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=111872281.2.10.1333031219; __utmc=111872281
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:42:46 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /favicon.ico HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: es-ES,es;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:47:04 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /favicon.ico HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:48:52 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /favicon.ico HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:48:52 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /favicon.ico HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: es-ES,es;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 04:57:57 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /favicon.ico HTTP/1.1
+Host: 192.168.1.169
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Connection: keep-alive
+
+-Dirección IP cliente: /192.168.1.100
+-Fecha de la petición: jue, 29 mar 2012 05:51:00 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /favicon.ico HTTP/1.1
+Host: 192.168.1.169
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Connection: keep-alive
+
+-Dirección IP cliente: /192.168.1.100
+-Fecha de la petición: jue, 29 mar 2012 05:51:00 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /favicon.ico HTTP/1.1
+Host: 192.168.1.169
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Connection: keep-alive
+
+-Dirección IP cliente: /192.168.1.100
+-Fecha de la petición: jue, 29 mar 2012 05:51:00 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 06:02:04 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 06:02:04 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 06:02:10 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 06:02:10 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 06:02:20 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 06:02:20 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+Cache-Control: max-age=0
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 06:05:32 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 06:05:32 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+Cache-Control: max-age=0
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 06:05:34 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 06:05:34 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+Cache-Control: max-age=0
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 06:05:37 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 06:05:37 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+Cache-Control: max-age=0
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 06:05:43 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 06:05:43 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+Cache-Control: max-age=0
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 06:05:48 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 06:05:48 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 06:14:10 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 06:14:10 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+Cache-Control: max-age=0
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 06:14:13 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 06:14:13 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 06:15:05 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 06:15:05 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /zero HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 06:15:08 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica%202 HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 06:15:32 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica%202/Otros%20Ficheros HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/zero/Practica%202
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 06:15:36 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /zero/Practica%202/Otros%20Ficheros/fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 06:15:37 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 06:15:37 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /troll HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 06:26:07 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 06:44:28 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 06:44:28 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 07:58:25 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 07:58:25 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 08:38:05 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 08:38:05 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /MiServlet.do?nombre=a&primerApellido=b&segundoApellido=c HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/saludo.html
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 08:56:27 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 08:56:27 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /MiServlet.do?nombre=a&primerApellido=b&segundoApellido=c HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 08:57:34 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 08:57:34 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 08:58:40 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 08:58:40 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /troll HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 08:59:37 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /favicon.ico HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: es-ES,es;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 09:01:00 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 09:04:17 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 09:04:17 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /favicon.ico HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: es-ES,es;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 09:04:23 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Cache-Control: max-age=0
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+Accept: */*
+Referer: http://localhost/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: es-ES,es;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 09:04:27 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 09:04:27 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /favicon.ico HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: es-ES,es;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 09:04:27 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /favicon.ico HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: es-ES,es;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 09:04:29 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Cache-Control: max-age=0
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+Accept: */*
+Referer: http://localhost/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: es-ES,es;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 09:04:30 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 09:04:30 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /favicon.ico HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: es-ES,es;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 09:04:30 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /favicon.ico HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: es-ES,es;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 09:04:31 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Cache-Control: max-age=0
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+Accept: */*
+Referer: http://localhost/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: es-ES,es;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 09:04:32 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 09:04:32 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /favicon.ico HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: es-ES,es;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 09:04:32 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /favicon.ico HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: es-ES,es;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 09:04:35 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 09:10:54 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 09:10:54 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 09:13:06 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 09:13:06 CEST
+
+• Error en la petición: 
+-Petición del cliente: GET /DNI.html HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 09:54:24 CEST
+-Código de error: 404 
+-Header de Respuesta: HTTP/1.1 404 NOT FOUND
+
+• Error en la petición: 
+-Petición del cliente: GET /fuck-yeah.gif HTTP/1.1
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: es-es,es;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost/
+If-Modified-Since: dom, 11 ene 2009 12:02:57 CET
+
+-Dirección IP cliente: /0:0:0:0:0:0:0:1
+-Fecha de la petición: jue, 29 mar 2012 09:57:27 CEST
+-Código de error: , 29
+-Header de Respuesta: Date: jue, 29 mar 2012 09:57:27 CEST
+

@@ -1,0 +1,227 @@
+Universidad de A Coruña
+Algoritmos Curso 2012/2013
+
+4º Práctica Algoritmos
+
+*********************** ALUMNOS ***********************
+Jonatan Enes Alvarez 
+jonatan.enes@udc.es
+
+Miguel Mosquera perez
+miguel.mosquera.perez@udc.es
+
+*********************** MAQUINA ***********************
+Procesador :
+Intel Core 2 Duo E 7300 2.66 GHz
+
+Memoria:
+3353372 KB
+
+Sistema Operativo:
+Linux 2.6.32-42-generic Ubuntu 
+
+*********************** MEDICIONES ***********************
+Lenguaje: 
+C
+
+Compilador:
+gcc (Ubuntu 4.4.3-4ubuntu5.1) 4.4.3
+
+Unidad de Tiempo:
+microsegundo (us)
+
+********************** INSTRUCCIONES COMPILACIÓN **********
+Dado que se hará uso de una librería auxiliar se ruega hacer uso del
+fichero Makefile adjunto. 
+
+En dicho fichero se puede optar por modificar el grado de optimización 
+en la compilación. (Por defecto y usado -O0(sin optimización añadida)).
+
+Pruebas empíricas previas realizadas con un grado alto de optimización, 3, 
+han arrojado tiempos mucho más bajos, pero  a su vez los tiempos eran  
+vulnerables a la intromisión del SO en sus labores de paginación, motivo por
+el que se descartó (era más difícil conseguir una buena cota ajustada).
+
+**********************  INTRODUCCION ***********************
+Vamos a medir la complejidad computacional del algoritmo de prim,
+cuya finalidad es generar el árbol recubridor mínimo de un 
+grafo conexo y no dirigido.
+
+Primero comprobaremos el correcto funcionamiento del algoritmo con
+3 gráfos diferentes inicializados manualmente y de los cuales sabemos la
+solución correcta y obtenida por Prim.
+
+Una vez seguros de la correcta implementación harémos las mediciones en grafos
+densos generados con pesos aleatorios y presentaremos unas conclusiones.
+
+
+********************* ESTRUCTURA DATOS USADA (LISTA) ********
+Para alojar la solución dada por el algoritmo de prim haremos uso
+de una estructura de datos, concretamente de una lista (de aristas), la 
+cual se encontrará en forma de librería externa al programa. Para su uso 
+interno declararemos la cabecera de dicha lista que actuará como interfaz 
+en la compilación.
+
+Hay que mencionar que dicha lista esta implementada de forma dinámica 
+en memoria, es decir guardará su información haciendo uso de nodos enlazados 
+de forma simple. Por la naturaleza del problema hemos decidido no incorporar 
+demasiadas funciones.
+
+Por último hay que destacar que para simplificar su implementación y 
+aprovechando el hecho de que no afecta a la resolución del problema, hemos 
+decidido que la operación común en listas de insertar un elemento se haga 
+siempre por el comienzo de esta, apoyándonos también en el uso del nodo cabecera. 
+De esta manera reducimos la complejidad de inserción a un tiempo constante O(1).
+
+     ****
+     Nota1:
+     Dado que más adelante se hará uso de funciones para verificar el algoritmo, 
+     aclaramos ahora el output que genera la lista mediante la función mostrar.
+
+     "(nodo_extremo,nodo_extremo_opuesto,peso)"
+     "(nodo_extremo,nodo_extremo_opuesto,peso)"
+     .
+     .
+     .
+     "(nodo_extremo,nodo_extremo_opuesto,peso)"
+     ****
+
+
+*******************  VALIDACION ALGORITMOS *****************
+Disponemos de 3 grafos de pruebas, estos se representan
+mediante una matriz alojada en memoria:
+
+1º Grafo :     2º Grafo:      3º Grafo:
+
+[0 1 8 4 7]    [0 1 4 7]      [ 0  7 99  5 99 99 99] 
+|1 0 2 6 5|    |1 0 2 8|      | 7  0  8  9  7 99 99|
+|8 2 0 9 5|    |4 2 0 3|      |99  8  0 99  5 99 99|
+|4 6 9 0 3|    [7 2 0 3]      | 5  9 99  0 15  6 99|
+[7 5 5 3 0|                   |99  7  5 15  0  8  9|   
+                              |99 99 99  6  8  0 11|
+                              [99 99 99 99  9 11  0]
+
+Solución:       Solución:     Solución:
+(0, 1)          (0, 1)        (0, 3)
+(1, 2)          (1, 2)        (3, 5)
+(0, 3)          (2, 3)        (0, 1)
+(3, 4)                        (1, 4)
+                              (4, 2)
+                              (4, 6)
+
+Peso:10         Peso:6        Peso:39
+
+
+###### OUTPUT DEL PROGRAMA PARA VALIDACION ALGORITMO ######
+Validacion con matriz n = 5
+(3 , 4 , 3)
+(0 , 3 , 4)
+(1 , 2 , 2)
+(0 , 1 , 1)
+
+Validacion con matriz n = 4
+(2 , 3 , 3)
+(1 , 2 , 2)
+(0 , 1 , 1)
+
+Validacion con matriz n = 7
+(4 , 6 , 9)
+(4 , 2 , 5)
+(1 , 4 , 7)
+(0 , 1 , 7)
+(3 , 5 , 6)
+(0 , 3 , 5)
+
+Si sumamos los campos peso de las ternas (aristas), veremos que obtenemos el
+peso total del grafo. Así comprobamos que nuestro algoritmo esta bien implementado.
+
+
+*******************  PRUEBAS EMPIRICAS ******************
+Para obtener la complejidad computacional de este algoritmo recurriremos 
+a pruebas empíricas mediante su uso en casos aleatorios y mediciones reales. 
+
+Sin embargo por limitaciones en los recursos disponibles, concretamente 
+en el uso de memoria, no siempre podremos medir el algoritmo de forma fiable. 
+Por el uso de matrices como forma de representar los grafos, a partir 
+de un cierto tamaño de nodos estas comenzarán a ocupar una cantidad de 
+memoria que aunque no será exagerada conllevará una gestión por parte 
+del SO que interferirá con los calculos de nuestro programa.
+
+Esto se puede observar en la salida del programa, el punto aproximado 
+en el que las mediciones comienzan a no ser fiables se ha marcado con una 
+línea de guiones, bajo esta se pueden ver unas pocas mediciones más que 
+demuestran este comportamiento.
+
+Por las limitaciones anteriormente mencionadas hemos decidido trabajar 
+con matrices que varían en tamaño desde 50x50 a 950x950, con un incremento de 50.
+
+       n         |T(n)(us)     |t(n)/n^1.9   |t(n)n^2      |t(n)n^2.1  
+*        50           31.27      0.018494     0.012507     0.008458 
+*       150          280.13      0.020549     0.012450     0.007544 
+        250          786.00      0.021844     0.012576     0.007240 
+        350         1509.00      0.022129     0.012318     0.006857 
+        450         2461.00      0.022388     0.012153     0.006597 
+        550         3871.00      0.024051     0.012797     0.006809 
+        -----------------------------------------------------------
+        650         7327.00      0.033143     0.017342     0.009074 
+        750        10491.00      0.036158     0.018651     0.009620 
+        850        14478.00      0.039338     0.020039     0.010208  
+
+
+
+Con una cota ajustada igual a n^2 obtenemos una constante igual a 0.012.
+
+
+Nota 2:
+Si observamos el siguiente segmento de código:
+     **
+     aux = microsegundos();
+                 for (j=1;j<=TEST;j++){
+                     inicializarMatriz(M,i);
+                     l=Prim(M,i);
+                     VaciarLista(&l); 
+                 }
+                 aux2 = microsegundos()-aux;
+                 aux3 = microsegundos();
+                 for (j=1;j<=TEST;j++){
+                     inicializarMatriz(M,i);
+                 }
+                 aux3= microsegundos()-aux3;
+                 tiempo = (aux2-aux3)/TEST;
+     **
+Podemos ver como se ha violado el sistema de medición usado anteriormente y 
+probado ser eficaz. 
+
+Esto se debe a la decisión por parte de los programadores de que el programa 
+NO acumula memoria usada y sin liberar. Esta memoria corresponde a la usada 
+para almacenar las listas que han sido usadas para guardar las aristas de los 
+grafos que representan la solucion dada por el algoritmo. 
+
+Dichas listas, de no ser vaciadas irían acumulandose, ocupando memoria que 
+aún siendo inaccesible ha de ser gestionada por el SO, incrementando así 
+la intromisión por parte de éste en nuestras mediciones.
+
+Sin embargo el tiempo gastado en el vaciado de la lista se esta incluyendo 
+dentro de las mediciones del algoritmo, esto ahora no es perceptible pero 
+en casos donde se usen grafos muy grandes, con muchos nodos, y sea necesario 
+guardar muchas aristas si lo será.
+
+Una posible solución es medir el tiempo necesario para vaciar una lista 
+de n nodos, T'(n),y dado que existe una relación entre el tamaño del grafo 
+y el nº de aristas que forman la  solución al problema, restar dicho tiempo 
+a nuestra medición bruta.
+
+********************** CONCLUSIONES *******************************
+Dado que estamos trabajando con matrices relativamente pequeñas el algoritmo
+arroja una complejidad computacional muy cercana (o igual) a la complejidad
+teórica del algoritmo O(n^2).
+
+Si quisieramos obtener una cota más cercana al algoritmo cuando este trabaja 
+con matrices más grandes podríamos probar a mejorar los recursos disponibles 
+a la hora de hacer las mediciones. Opciones disponibles son la aplicación de
+optimizaciones mas agresivas, hacer las mediciones en un SO con muy poca carga
+e incrementar el tamaño de pagina.
+
+Aplicando estas mejoras seguramente obtendríamos unas cotas algo superiores,
+causadas por la gestión del SO, pero obtendríamos un rango de estudio muy
+superior.

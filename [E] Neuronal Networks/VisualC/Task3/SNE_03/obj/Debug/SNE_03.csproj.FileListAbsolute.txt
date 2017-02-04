@@ -1,0 +1,27 @@
+c:\users\adam\documents\visual studio 2013\Projects\SNE_03\SNE_03\bin\Debug\SNE_03.exe.config
+c:\users\adam\documents\visual studio 2013\Projects\SNE_03\SNE_03\obj\Debug\SNE_03.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2013\Projects\SNE_03\SNE_03\bin\Debug\SNE_03.exe
+c:\users\adam\documents\visual studio 2013\Projects\SNE_03\SNE_03\bin\Debug\SNE_03.pdb
+c:\users\adam\documents\visual studio 2013\Projects\SNE_03\SNE_03\obj\Debug\SNE_03.exe
+c:\users\adam\documents\visual studio 2013\Projects\SNE_03\SNE_03\obj\Debug\SNE_03.pdb
+Y:\Downloads\SNE\SNE_03\SNE_03\bin\Debug\SNE_03.exe.config
+Y:\Downloads\SNE\SNE_03\SNE_03\obj\Debug\SNE_03.exe
+Y:\Downloads\SNE\SNE_03\SNE_03\obj\Debug\SNE_03.pdb
+Y:\Downloads\SNE\SNE_03\SNE_03\bin\Debug\SNE_03.exe
+Y:\Downloads\SNE\SNE_03\SNE_03\bin\Debug\SNE_03.pdb
+Y:\Downloads\SNE\SNE_03\SNE_03\obj\Debug\SNE_03.csprojResolveAssemblyReference.cache
+Y:\Downloads\Uczelnia\Sieci Neuronowe\SNE\SNE_03\SNE_03\bin\Debug\SNE_03.exe.config
+Y:\Downloads\Uczelnia\Sieci Neuronowe\SNE\SNE_03\SNE_03\obj\Debug\SNE_03.exe
+Y:\Downloads\Uczelnia\Sieci Neuronowe\SNE\SNE_03\SNE_03\obj\Debug\SNE_03.pdb
+D:\Drive\Grao Informática\15-16 [Erasmus]\Neural\Neural\gotowce w c#\SNE_03\SNE_03\bin\Debug\SNE_03.exe.config
+D:\Drive\Grao Informática\15-16 [Erasmus]\Neural\Neural\gotowce w c#\SNE_03\SNE_03\obj\Debug\SNE_03.pdb
+D:\Drive\Grao Informática\15-16 [Erasmus]\Neural\Neural\gotowce w c#\SNE_03\SNE_03\bin\Debug\SNE_03.exe
+D:\Drive\Grao Informática\15-16 [Erasmus]\Neural\Neural\gotowce w c#\SNE_03\SNE_03\bin\Debug\SNE_03.pdb
+D:\Drive\Grao Informática\15-16 [Erasmus]\Neural\Neural\gotowce w c#\SNE_03\SNE_03\obj\Debug\SNE_03.csprojResolveAssemblyReference.cache
+D:\Drive\Grao Informática\15-16 [Erasmus]\Neural\Neural\gotowce w c#\SNE_03\SNE_03\obj\Debug\SNE_03.exe
+D:\Drive\Grao Informática\15-16 [Erasmus]\Neural\Project\VisualC\Task3\SNE_03\bin\Debug\SNE_03.exe.config
+D:\Drive\Grao Informática\15-16 [Erasmus]\Neural\Project\VisualC\Task3\SNE_03\obj\Debug\SNE_03.exe
+D:\Drive\Grao Informática\15-16 [Erasmus]\Neural\Project\VisualC\Task3\SNE_03\obj\Debug\SNE_03.pdb
+D:\Drive\Grao Informática\15-16 [Erasmus]\Neural\Project\VisualC\Task3\SNE_03\bin\Debug\SNE_03.exe
+D:\Drive\Grao Informática\15-16 [Erasmus]\Neural\Project\VisualC\Task3\SNE_03\bin\Debug\SNE_03.pdb
+D:\Drive\Grao Informática\15-16 [Erasmus]\Neural\Project\VisualC\Task3\SNE_03\obj\Debug\SNE_03.csprojResolveAssemblyReference.cache

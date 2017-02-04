@@ -1,0 +1,11 @@
+A jugador01	
+A jugador02    
+B jugador04
+A jugador03
+M jugador01     3
+M jugador03     7
+B jugador01
+A jugador10
+M jugador05     3
+A jugador11
+B

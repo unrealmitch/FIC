@@ -1,0 +1,12 @@
+c:\users\adam\documents\visual studio 2013\Projects\SNE_04\SNE_04\bin\Debug\SNE_04.exe.config
+c:\users\adam\documents\visual studio 2013\Projects\SNE_04\SNE_04\bin\Debug\SNE_04.exe
+c:\users\adam\documents\visual studio 2013\Projects\SNE_04\SNE_04\bin\Debug\SNE_04.pdb
+c:\users\adam\documents\visual studio 2013\Projects\SNE_04\SNE_04\obj\Debug\SNE_04.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2013\Projects\SNE_04\SNE_04\obj\Debug\SNE_04.exe
+c:\users\adam\documents\visual studio 2013\Projects\SNE_04\SNE_04\obj\Debug\SNE_04.pdb
+D:\Drive\Grao Informática\15-16 [Erasmus]\Neural\Project\VisualC\Task4\SNE_04\bin\Debug\SNE_04.exe.config
+D:\Drive\Grao Informática\15-16 [Erasmus]\Neural\Project\VisualC\Task4\SNE_04\obj\Debug\SNE_04.pdb
+D:\Drive\Grao Informática\15-16 [Erasmus]\Neural\Project\VisualC\Task4\SNE_04\bin\Debug\SNE_04.exe
+D:\Drive\Grao Informática\15-16 [Erasmus]\Neural\Project\VisualC\Task4\SNE_04\bin\Debug\SNE_04.pdb
+D:\Drive\Grao Informática\15-16 [Erasmus]\Neural\Project\VisualC\Task4\SNE_04\obj\Debug\SNE_04.csprojResolveAssemblyReference.cache
+D:\Drive\Grao Informática\15-16 [Erasmus]\Neural\Project\VisualC\Task4\SNE_04\obj\Debug\SNE_04.exe

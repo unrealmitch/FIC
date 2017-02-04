@@ -1,0 +1,7 @@
+Program MiPrograma(input,output);
+
+var
+x: integer;
+P1, P2: ^integer;
+Q1, Q2: ^real;
+

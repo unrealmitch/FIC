@@ -1,0 +1,129 @@
+Universidad de A Coruña
+Algoritmos Curso 2012/2013
+
+1º Práctica Algoritmos
+Viernes 28/9/2012
+
+*********************** ALUMNOS ***********************
+Jonatan Enes Alvarez 
+jonatan.enes@udc.es
+
+Miguel Mosqueria perez
+miguel.mosqueria.perez@udc.es
+
+*********************** MAQUINA ***********************
+Procesador :
+Intel Core 2 Duo E 7300 2.66 GHz
+
+Memoria:
+3353372 KB
+DDR2?
+
+Sistema Operativo:
+Linux 2.6.32-42-generic Ubuntu 
+
+
+*********************** MEDICIONES ***********************
+Lenguaje: 
+C
+
+Compilador:
+gcc (Ubuntu 4.4.3-4ubuntu5.1) 4.4.3
+
+Unidad de Tiempo:
+microsegundo (ms)
+
+*********************** PRUEBAS EMPIRICAS ***********************
+Las pruebas serań realizadas en la máquina con especificaciones 
+señaladas más arriba y con lenguaje y compilador indicados.
+
+Las pruebas constarán de 3 mediciones empíricas de 3 algoritmos que 
+calculan el número de Fibonacci asociado a la posición pedida. Cada
+prueba evaluará los tiempos de los algoritmos en devolver el valor 
+pedido para una cierta entrada acorde con los métodos pedidos.
+
+				#### Algoritmo 1 ####
+				
+	n		 |T(n)(us)      |t(n)/1.1^n  |t(n)/((1+sqrt(5))/2)^n |t(n)/2^n 
+*|	       2	    0.018800	    0.015537	    0.007181	    0.004700	 
+*|	       4	    0.069000	    0.047128	    0.010067	    0.004312	 
+*|	       8	    0.759200	    0.354172	    0.016161	    0.002966	 
+*|	      16	   21.958700	    4.778853	    0.009950	    0.000335	 
+|	      32	49203.000000	 2330.374172	    0.010102	    0.000011	
+
+		
+				#### Algoritmo 2 O(n) ####
+				
+	n		 |T(n)(us)	  |t(n)/n^0.8	    |t(n)/n	  |t(n)/n*log(n)
+*|	    1000	    5.280700	    0.021023	    0.005281	    0.000764	 
+*|	   10000	   52.721300	    0.033265	    0.005272	    0.000572	 
+|	  100000	  536.000000	    0.053600	    0.005360	    0.000466	 
+|	 1000000	 5270.000000	    0.083524	    0.005270	    0.000381	 
+|	10000000	52733.000000	    0.132459	    0.005273	    0.000327				
+		
+		
+		
+				#### Algoritmo 3 O(log(n))####
+				
+	n		  |T(n)(us) 	|t(n)/sqrt(log(n)) |t(n)/log(n)   |t(n)/n^0.5 
+*|	    1000	    0.205100	    0.078036	    0.029691	    0.006486	 
+*|	   10000	    0.273600	    0.090153	    0.029706	    0.002736	 
+*|	  100000	    0.364700	    0.107484	    0.031677	    0.001153	 
+*|	 1000000	    0.422400	    0.113642	    0.030574	    0.000422	 
+*|	10000000	    0.519000	    0.129274	    0.032200	    0.000164
+				
+
+
+
+*********************** CONCLUSIONES ***********************
+**Algoritmo 1:
+
+Podemos apreciar claramente como el primer algoritmo, el cual usa
+recursión para calcular el dato pedido necesitará de un tiempo que 
+crece exponencialmente con el tamaño del dato pedido. Este crecimiento
+se aprecia muy bien en la diferencia de calcular fibonacci de 16 y
+fibonacci de 32, habiendo una diferencia de tiempos exageradamente 
+grande. Este comportamiento exponencial se explica por el caracter 
+caracter recursivo y su implementación en el ordenador, el cual 
+abre hilos de ejecución en cada llamada haciendo asi excesivos 
+cálculos redundantes y repetidos, que consumen mucho tiempo.
+
+La cota subestimada parece crecer de forma tambien exponencial.
+La cota sobreestimada parece tender a 0 cuando n crece.
+
+La cota ajustada parece oscilar entorno a un valor constante, 0.1, lo 
+que nos permitiría calcular un tiempo aproximado que necesitaría el 
+algoritmo para calcular un valor dado. 
+
+
+**Algoritmo 2:
+
+En el algoritmo 2 se aprecia claramente una constante en la cota 
+ajustada, 0.00527, la cota sobreestimada se comporta 
+acorde a su función.
+Sin embargo la cota subestimada, aunque crece, lo hace de una forma
+extremadamente débil. Se podría necesitar un dato de entrada cercano 
+al infinito para que dicha cota tuviese un valor apreciable, por lo 
+que no se podría clasificar como una buena cota subestimada.
+
+Tambien podemos ver de forma muy clara que el tiempo que tarda sigue
+una muy fuerte linealidad, como se predijo en su análisis.
+
+**Algoritmo 3:
+
+En el algoritmo 3 se podría usar una constante de 0.3 para la cota
+ajustada, la cota sobreestimada sigue su comportamiento habitual.
+De nuevo la cota subestimada no es muy buena ya que no crece lo 
+suficiente.
+
+Podemos recalcar la gran rapidez de este algoritmo debido a su 
+carácter logarítmico, lo que le permite que el tamaño de su 
+entrada pueda crecer mucho sin que se vea afectado de forma grave
+el rendimiento.
+
+** General:
+En los tres casos hemos obtenido constantes claras asi que podríamos
+definir un
+t(n) = θ('expresion') 
+con la expresion correspondiente a cada funcion usada en 
+el calculo de la cota ajustada de cada algoritmo.

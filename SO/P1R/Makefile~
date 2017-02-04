@@ -1,0 +1,7 @@
+all: main2.out
+
+main2.out: main2.c
+	gcc -g -O0 -Wall -o main2.out main2.c
+
+clean:
+	rm -f main.out

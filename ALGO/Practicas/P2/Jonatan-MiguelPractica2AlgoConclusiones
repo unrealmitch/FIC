@@ -1,0 +1,128 @@
+Universidad de A Coruña
+Algoritmos Curso 2012/2013
+
+2º Práctica Algoritmos
+Viernes 19/10/2012
+
+*********************** ALUMNOS ***********************
+Jonatan Enes Alvarez 
+jonatan.enes@udc.es
+
+Miguel Mosqueria perez
+miguel.mosqueria.perez@udc.es
+
+*********************** MAQUINA ***********************
+Procesador :
+Intel Core 2 Duo E 7300 2.66 GHz
+
+Memoria:
+3353372 KB
+
+Sistema Operativo:
+Linux 2.6.32-42-generic Ubuntu 
+
+*********************** MEDICIONES ***********************
+Lenguaje: 
+C
+
+Compilador:
+gcc (Ubuntu 4.4.3-4ubuntu5.1) 4.4.3
+
+Unidad de Tiempo:
+microsegundo (us)
+
+********************** PRUEBAS EMPIRICAS ***********************
+		
+			#### Prueba Funcionamiento Algoritmos ####
+
+Algoritmo 1 	 Algoritmo 2
+6			6 {-9,2,-5,-4,6,}
+20			20 {4,0,9,2,5,}
+0			0 {-2,-1,-9,-7,-1,}
+9			9 {9,-2,1,-7,-8,}
+20			20 {15,-2,-5,-4,16,}
+15			15 {7,-5,6,7,-7,}
+24			24 {4,9,9,-6,8,-8,-5,-8,7,-2,-5,-10,-5,-1,-7,}
+
+				#### Algoritmo 1  ####
+n		|T(n)(us)   	    |t(n)/n^1.2 	    |t(n)/n^2 	    |t(n)/n^2.5 
+*64	   	 9.648140	   	    0.065619	    0.002356	    0.000294
+*128	 	 35.908720	    0.106304	    0.002192	    0.000194
+*256	 	 139.481540	    0.179733	    0.002128	    0.000133
+512	 	 549.000000	    0.307927	    0.002094	    0.000093
+1024		 2186.000000	    0.533691	    0.002085	    0.000065
+2048		 8728.000000	    0.927510	    0.002081	    0.000046
+4096		34805.000000	    1.609940	    0.002075	    0.000032
+8192		139329.000000	    2.805263	    0.002076	    0.000023
+16384	559984.000000	    4.907629	    0.002086	    0.000016
+32768	2245010.000000	    8.564034	    0.002091	    0.000012
+65536	8982105.000000	   14.914277	    0.002091	    0.000008
+131072	35923820.000000   25.963940  	    0.002091  	    0.000006
+				
+				### Algoritmo 2  ####
+n		|T(n)(us) 	    |t(n)/ln(n)^2  |t(n)/(n)^1.05 |t(n)/(n)^1.2 
+*64	    	4.925000	   	    0.284743	    0.062505	    0.033496
+*128	   	10.652600	   	    0.452490	    0.065296	    0.031536
+*256	   	22.680533	  	    0.737602	    0.067143	    0.029226
+*512	   	47.926267	  	    1.231509	    0.068524	    0.026881
+*1024	100.774867	    2.097497	    0.069588	    0.024603
+*2048	211.073467	    3.630758	    0.070394	    0.022430
+*4096	440.134667	    6.361685	    0.070894	    0.020359
+8192	 	909.000000	   11.195056	    0.070714	    0.018302
+16384	1907.000000	   20.250871	    0.071649	    0.016713
+32768	3965.000000	   36.678347	 -> 0.071948	    0.015125
+65536	8172.000000	   66.441200	    0.071618	    0.013569
+131072	16974.000000	  122.246218	    0.071845	    0.012268
+262144	34983.000000	  224.730034	    0.071514	    0.011005
+524288	72215.000000	  416.360280	    0.071298	    0.009889
+1048576	148858.000000	  774.571059	    0.070981	    0.008873
+2097152	306743.000000	 1447.721917	    0.070642	    0.007958
+
+*********************** CONCLUSIONES ***********************
+## Algoritmo 1 :
+Cota Subestimada: n^1.2
+Cota Ajustada: n^1.05
+Cota Sobreestimada: n^2.5
+Constante: 0.002091
+Complejidad del Algoritmo = Lineal
+
+NOTAS:
+Hemos hecho diversas pruebas con vectores que duplicaban su tamaño 
+desde los 64 elementos a los (aprox·) 130000. A partir de este punto
+hemos visto que el algoritmo se volvía lento debido a su implementa·
+ción interna y perdía el interés en las pruebas de rendimiento frente
+al otro algoritmo.
+
+Todas las cotas cumplen su función y la cota ajustada arroja una 
+constante igual a exactamente 0.002091, la cual se mantiene a partir 
+de valores superiores a los (aprox·) 30,000 elementos.
+
+Al comenzar a probar el algoritmo con vectores mayores de 64 elementos
+hemos eliminado muchas mediciones inusuales propias de vectores 
+pequeños.
+
+##########################################################
+
+## Algoritmo 2 :
+Cota Subestimada: ln(n)^2
+Cota Ajustada: n^2
+Cota Sobreestimada: n^1.2
+Constante : 0.71
+Complejidad del Algoritmo : Cuadrática
+
+NOTAS:
+Las pruebas se hicieron con vectores iguales a los del algoritmo uno
+con la diferencia de que este algoritmo nos ha permitido aumentar el 
+rango hasta alcanzar vectores de tamaño (aprox·) 2,100,000 elementos.
+
+El comportamiento del algoritmo seguía siendo excelente pero la 
+complejidad espacial comenzaba a impedir el crecimiento. Se podrían
+hacer pruebas con tamaños mayores usando una reserva de memoria para
+el array en la memoria de montículo y no de pila (como hace el 
+compilador con los arrays).
+
+Todas las cotas cumplen su funcion y la cota ajustada arroja una 
+constante igual a 0.71, podemos observar como esta constante varia 
+siendo menor que dicho valor al principio, igual a este en los 
+vectores de tamaño medio (vease marca ->) y menor de nuevo al final, 
+pero podría ser debido a factores externos. 
